@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tallway Business",
-  description: "Tallway Business",
+  title: "Tallyway · Revenue overview",
+  description: "MRR, churn, net revenue retention, and cohort retention for Tallyway.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
